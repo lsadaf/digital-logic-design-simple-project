@@ -43,24 +43,15 @@ Notes:
 ---
 
 ## File Structure
-
+```
 ├── first
-
 │ ├── P1.Module.v
-
 │ └── P1.Testbench.v
-
 ├── second
-
 │ ├── P2.Module.v
-
 │ └── P2.Testbench.v
-
 ├── third
-
 │ ├── P3.Module.v
-
 │ └── P3.Testbench.v\
-
 └── README.md
-
+```
