@@ -1,4 +1,4 @@
-# Digital Logic Design – Final Project
+# Digital Logic Design Simple Project
 
 ## Project Overview
 This repository contains the implementation of three core digital logic design tasks using Verilog HDL at different abstraction levels:
