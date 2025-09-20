@@ -52,6 +52,6 @@ Notes:
 │ └── P2.Testbench.v
 ├── third
 │ ├── P3.Module.v
-│ └── P3.Testbench.v\
+│ └── P3.Testbench.v
 └── README.md
 ```
